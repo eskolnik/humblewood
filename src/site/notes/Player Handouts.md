@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-handouts/"}
+{"dg-publish":true,"permalink":"/player-handouts/","noteIcon":""}
 ---
 
 ## World
