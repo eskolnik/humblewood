@@ -5,7 +5,7 @@
 [[Player Handouts\|Player Handouts]]
 
 [[Campaign Notes\|Campaign Notes]]
-
+![Adult Black Dragon.png](/img/user/assets/Adult%20Black%20Dragon.png)
 
 > [!note] Welcome
 > Game's gonna be gr8
