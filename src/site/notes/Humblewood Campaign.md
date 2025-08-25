@@ -9,6 +9,9 @@
 
 > [!note] Welcome
 > Game's gonna be gr8
+```statblock
+creature: Adult Black Dragon
+```
 
 ```ad-important
 title: LETS A GO
