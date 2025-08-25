@@ -6,7 +6,16 @@
 
 [[Campaign Notes\|Campaign Notes]]
 
-Hi
+
+> [!note] Welcome
+> Game's gonna be gr8
+
+```ad-important
+title: LETS A GO
+
+
+```
+
 
 
 
