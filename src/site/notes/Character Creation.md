@@ -20,14 +20,13 @@ We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024
 [D&D Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024)
 [Player's Handbook PDF](https://anyflip.com/hxkex/dbqr)
 
-#### Humblewood Setting
-An introduction to the world of Humblewood, its pantheon, and a few new spells.
-![[HumblewoodSpellsReligion.pdf#height=875]]
-
-
 #### Humblewood PC Options
+Species, Class, and Background options
 ![[Humblewood_2024_supplement.pdf#height=875]]
 
+#### New Spells
+![[Humblewood_spells.pdf#height=875]]
+
 #### Beyond the Canopy (HumbleWood 2)
-Note: This content isn't updated for 2024 yet
+Note: This content hasn't been updated for 2024 yet
 ![[HW2_BeyondTheCanopy.pdf#height=875]]
