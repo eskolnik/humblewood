@@ -6,42 +6,40 @@ body {
       display: none;
     }
 
-    .callout-title::after {
-      content: "";
-      background-image: url(../../assets/strig_icon_sq.png);
-      width: 50px;
-    }
-  }
-
-  /* hide special tag used for styling */
-  & [href="#_humble_callout"] {
-    display: none;
-  }
-
-  .table-wrapper:has([href="#_humble_callout"]),	/* EDIT MODE */
-  table:has([href="#_humble_callout"])				/* PREVIEW MODE */ {
     
-    /* hide the header row since it would break numbering */
-    & thead {
+
+    /* hide special tag used for styling */
+    & [href="#_humble_callout"] {
       display: none;
     }
 
-    /* add borders around everything */
-    &,
-    & td {
-      border: none;
-      background-color: var(--callout-color) !important;
-    }
+    .table-wrapper:has([href="#_humble_callout"]),	/* EDIT MODE */
+    table:has([href="#_humble_callout"]),				    /* PREVIEW MODE */
+    table:has([data-content="#_humble_callout"])    /* PUBLISHED MODE */
+    {
+      /* hide the header row since it would break numbering */
+      & thead {
+        display: none;
+      }
 
-    /* center everything */
-    & td {
-      text-align: left;
-      vertical-align: middle;
-    }
+      /* add borders around everything */
+      &,
+      & td {
+        border: none;
+        background-color: var(--callout-color) !important;
+      }
 
-    /* make sure we start with a full white table */
-    & tr {
-      background-color: var(--callout-color) !important;
+      /* center everything */
+      & td {
+        text-align: left;
+        vertical-align: middle;
+        min-width: 100px;
+      }
+
+      /* make sure we start with a full white table */
+      & tr {
+        background-color: var(--callout-color) !important;
+      }
     }
   }
 }
