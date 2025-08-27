@@ -5,6 +5,7 @@
 # The World of Humblewood
 ![humblewood_map.jpg](/img/user/assets/humblewood_map.jpg)
 
+
 ## Alderheart
 
 Alderheart is home to every race of birdfolk and humblefolk. The thriving community attracts people from faraway lands, like traveling merchants, explorers, and foreign dignitaries. The Great Tree City is divided into three main levels where people live, work, and go about their lives: the canopy, the trunk, and the roots.
