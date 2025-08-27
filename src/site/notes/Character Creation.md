@@ -12,7 +12,7 @@ We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024
 >  
 >   #_humble_callout  |       |
 >  | --- | --- |
->  <img src="assets/strig_icon_sq.png" width="50px"> |  If you want to play an Artificer (or any other class that doesn't appear in the 2024 Player's Handbook), or use a subclass from an older book, that's generally going to be fine, just talk with me about it first. Converting older content to work with the new rules is usually fairly straightforward. |
+>  ![strig_icon_sq_100.png](/img/user/assets/strig_icon_sq_100.png) |  If you want to play an Artificer (or any other class that doesn't appear in the 2024 Player's Handbook), or use a subclass from an older book, that's generally going to be fine, just talk with me about it first. Converting older content to work with the new rules is usually fairly straightforward. |
 
 - **Choose a species**
 	- Previously, your choice of species had an effect on your ability scores. That's no longer the case - instead, it's based on your Background.
@@ -21,7 +21,7 @@ We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024
 >  
 >   #_humble_callout  |       |
 >  | --- | --- |
->  <img src="assets/strig_icon_sq.png" width="50px"> | I'd strongly encourage using the species options from the Humblewood setting (either the original or Beyond the Canopy), but if you want to play something from the core books or elsewhere, talk to me and we'll work out how your character ended up in the Humblewood. |
+>  ![strig_icon_sq_100.png](/img/user/assets/strig_icon_sq_100.png) | I'd strongly encourage using the species options from the Humblewood setting (either the original or Beyond the Canopy), but if you want to play something from the core books or elsewhere, talk to me and we'll work out how your character ended up in the Humblewood. |
 
 - **Choose your Background**
 	- Each background lists 3 ability scores. You can boost two of those by +2/+1 respectively, or all three by +1. 
