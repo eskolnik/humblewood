@@ -4,7 +4,7 @@
 
 # Character Creation
 
-We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character), which involve a a few changes from the original 2014 rules. In summary:
+We'll be using the 2024 version of the 5e [rules](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character), which involve a a few changes from the original 2014 rules. In summary:
 - **Choose a starting class.**
 	- All classes now select their subclass at level 3 (whereas previously this was different for each class). We're starting at level 1, so you don't need to do this now, but you may want to have a subclass in mind as you level up.
 
@@ -15,7 +15,7 @@ We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024
 >  ![strig_icon_sq_100.png](/img/user/assets/strig_icon_sq_100.png) |  If you want to play an Artificer (or any other class that doesn't appear in the 2024 Player's Handbook), or use a subclass from an older book, that's generally going to be fine, just talk with me about it first. Converting older content to work with the new rules is usually fairly straightforward. |
 
 - **Choose a species**
-	- Previously, your choice of species had an effect on your ability scores. That's no longer the case - instead, it's based on your Background.
+	- Previously, your choice of species had an effect on your ability scores. That's no longer the case - instead, they're based on your Background.
 	
 > [!humble] 
 >  
@@ -26,23 +26,28 @@ We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024
 - **Choose your Background**
 	- Each background lists 3 ability scores. You can boost two of those by +2/+1 respectively, or all three by +1. 
 	- If you're using an older background that doesn't include a feat, gain an [Origin feat](http://dnd2024.wikidot.com/feat:all#Origin).
+	- The backgrounds in the Humblewood books have some setting-specific tie-ins, but that doesn't mean that other backgrounds can't be just as deeply integrated into the world.
 	- Backgrounds are more like guidelines. Any combination of any of the components (ability scores, origin feat, two skill proficiencies, a tool proficiency, 50GP worth of equipment) is fine with me, so long as you expand on it a bit in your character's story.
 - **Choose ability scores**
-	- Use the point buy method, then apply your background's bonuses to them.
+	- Use the [point buy]([Creating a Character](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character#Step3DetermineAbilityScores)) method, then apply your background's bonuses to them.
 
 
 ### Basic Rules
-###### [2024 Rules Wiki]()
+
 ###### [D&D Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024)
+
+###### [2024 Rules Wiki]()
+
 ###### [Player's Handbook PDF](https://anyflip.com/hxkex/dbqr)
 
 ### Humblewood PC Options
+
 ###### [Species, Class, and Background options](https://drive.proton.me/urls/38SEFRGVPG#lmXjEfQOiAOq)
 
 ###### [Spells](https://drive.proton.me/urls/V21Q3NVFE0#uL4EkjTQQdy8)
 
-###### [Beyond the Canopy (HumbleWood 2)](https://drive.proton.me/urls/GZV33QJG0G#wrk2IBkP8cTc)
-Note: This content hasn't been updated for 2024 yet
+###### [Beyond the Canopy (HumbleWood 2)](https://drive.proton.me/urls/GZV33QJG0G#wrk2IBkP8cTc) 
+- Note: HW2 content hasn't been updated for the 2024 rules yet, but those options are all still available.
 
 
 ## Background
