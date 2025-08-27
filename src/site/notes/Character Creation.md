@@ -29,7 +29,7 @@ We'll be using the 2024 version of the 5e [rules](https://www.dndbeyond.com/sour
 	- The backgrounds in the Humblewood books have some setting-specific tie-ins, but that doesn't mean that other backgrounds can't be just as deeply integrated into the world.
 	- Backgrounds are more like guidelines. Any combination of any of the components (ability scores, origin feat, two skill proficiencies, a tool proficiency, 50GP worth of equipment) is fine with me, so long as you expand on it a bit in your character's story.
 - **Choose ability scores**
-	- Use the [point buy]((https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character#Step3DetermineAbilityScores)method, then apply your background's bonuses to them.
+	- Use the [point buy](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character#Step3DetermineAbilityScores)method, then apply your background's bonuses to them.
 
 
 ## Basic Rules
