@@ -32,42 +32,17 @@ We'll be using the 5e 2024 [rules](https://www.dndbeyond.com/sources/dnd/br-2024
 
 
 ### Basic Rules
-[2024 Rules Wiki]()
-[D&D Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024)
-[Player's Handbook PDF](https://anyflip.com/hxkex/dbqr)
+###### [2024 Rules Wiki]()
+###### [D&D Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024)
+###### [Player's Handbook PDF](https://anyflip.com/hxkex/dbqr)
 
 ### Humblewood PC Options
-#### Species, Class, and Background options
-```embed
-title: "Proton Drive"
-image: "https://drive.proton.me/assets/proton-og-image.png"
-description: "Securely store, share, and access your important files and photos. Anytime, anywhere."
-url: "https://drive.proton.me/urls/38SEFRGVPG#lmXjEfQOiAOq"
-favicon: ""
-aspectRatio: "52.5"
-```
+###### [Species, Class, and Background options](https://drive.proton.me/urls/38SEFRGVPG#lmXjEfQOiAOq)
 
-#### Spells
-```embed
-title: "Proton Drive"
-image: "https://drive.proton.me/assets/proton-og-image.png"
-description: "Securely store, share, and access your important files and photos. Anytime, anywhere."
-url: "https://drive.proton.me/urls/V21Q3NVFE0#uL4EkjTQQdy8"
-favicon: ""
-aspectRatio: "52.5"
-```
+###### [Spells](https://drive.proton.me/urls/V21Q3NVFE0#uL4EkjTQQdy8)
 
-
-#### Beyond the Canopy (HumbleWood 2)
+###### [Beyond the Canopy (HumbleWood 2)](https://drive.proton.me/urls/GZV33QJG0G#wrk2IBkP8cTc)
 Note: This content hasn't been updated for 2024 yet
-```embed
-title: "Proton Drive"
-image: "https://drive.proton.me/assets/proton-og-image.png"
-description: "Securely store, share, and access your important files and photos. Anytime, anywhere."
-url: "https://drive.proton.me/urls/GZV33QJG0G#wrk2IBkP8cTc"
-favicon: ""
-aspectRatio: "52.5"
-```
 
 
 ## Background
