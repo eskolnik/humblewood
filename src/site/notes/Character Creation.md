@@ -39,7 +39,7 @@ We'll be using the 2024 version of the 5e [rules](https://www.dndbeyond.com/sour
 ###### [2014 Rules wiki](https://dnd5e.wikidot.com/)
 - Contains a number of character options you won't find in the base rules (or in the 2024 wiki) from various other published material. You're free to use just about anything in there, with whatever small changes are needed to update them to the 2024 rules.
 
-###### [2024 Rules Wiki]([Home - D&D 5e (2024)](http://dnd2024.wikidot.com/))
+###### [2024 Rules Wiki](http://dnd2024.wikidot.com/)
 
 ###### [Player's Handbook PDF](https://anyflip.com/hxkex/dbqr)
 
