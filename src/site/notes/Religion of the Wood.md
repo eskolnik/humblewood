@@ -30,12 +30,4 @@ To Humblefolk who live outside of birdfolk perches, Ardea and Tyton are known as
 | Kren, the Sly          | A shadowy fox                                             | Guile, Darkness, Predators, Trickery, Hunger, Dangerous Nature, Cunning, and Vulpins |
 | Tyton, the Nightfather | An immense black barn owl                                 | Night, Time, Aging, Memory, and Natural Death                                        |
 |                        |                                                           |                                                                                      |
-More details and stories about the Amarynthine: 
-```embed
-title: "Proton Drive"
-image: "https://drive.proton.me/assets/proton-og-image.png"
-description: "Securely store, share, and access your important files and photos. Anytime, anywhere."
-url: "https://drive.proton.me/urls/WPG20Y2CV4#lTw9covPdsYL"
-favicon: ""
-aspectRatio: "52.5"
-```
+###### [More details and stories about the Amarynthine](https://drive.proton.me/urls/WPG20Y2CV4#lTw9covPdsYL)
