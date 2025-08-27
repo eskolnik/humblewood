@@ -32,15 +32,18 @@ We'll be using the 2024 version of the 5e [rules](https://www.dndbeyond.com/sour
 	- Use the [point buy]([Creating a Character](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character#Step3DetermineAbilityScores)) method, then apply your background's bonuses to them.
 
 
-### Basic Rules
+## Basic Rules
 
 ###### [D&D Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024)
 
-###### [2024 Rules Wiki]()
+###### [2014 Rules wiki](https://dnd5e.wikidot.com/)
+- Contains a number of character options you won't find in the base rules (or in the 2024 wiki) from various other published material. You're free to use just about anything in there, with whatever small changes are needed to update them to the 2024 rules.
+
+###### [2024 Rules Wiki]([Home - D&D 5e (2024)](http://dnd2024.wikidot.com/))
 
 ###### [Player's Handbook PDF](https://anyflip.com/hxkex/dbqr)
 
-### Humblewood PC Options
+## Humblewood PC Options
 
 ###### [Species, Class, and Background options](https://drive.proton.me/urls/38SEFRGVPG#lmXjEfQOiAOq)
 
