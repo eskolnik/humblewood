@@ -1,12 +1,17 @@
 body {
+
+  // remove dark overlay
+  .fullpage-overlay {
+    background-color: rgba(0, 0, 0, 0.0);
+  }    
+
+  // Customize the humble callout
   .callout[data-callout="humble"] {
     --callout-color: 3, 73, 24;
 
     .callout-icon {
       display: none;
     }
-
-    
 
     /* hide special tag used for styling */
     & [href="#_humble_callout"] {
