@@ -1,13 +1,50 @@
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+
+  // remove dark overlay
+  .fullpage-overlay {
+    background-color: rgba(0, 0, 0, 0.0);
+  }    
+
+  // Customize the humble callout
+  .callout[data-callout="humble"] {
+    --callout-color: 40, 190, 40;
+
+    .callout-icon {
+      display: none;
+    }
+
+    /* hide special tag used for styling */
+    & [href="#_humble_callout"] {
+      display: none;
+    }
+
+    .table-wrapper:has([href="#_humble_callout"]),	/* EDIT MODE */
+    table:has([href="#_humble_callout"]),				    /* PREVIEW MODE */
+    table:has([data-content="#_humble_callout"])    /* PUBLISHED MODE */
+    {
+      /* hide the header row since it would break numbering */
+      & thead {
+        display: none;
+      }
+
+      /* add borders around everything */
+      &,
+      & td {
+        border: none;
+        background-color: var(--callout-color) !important;
+      }
+
+      /* center everything */
+      & td {
+        text-align: left;
+        vertical-align: middle;
+        min-width: 100px;
+      }
+
+      /* make sure we start with a full white table */
+      & tr {
+        background-color: var(--callout-color) !important;
+      }
+    }
+  }
 }

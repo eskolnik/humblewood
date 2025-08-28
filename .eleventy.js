@@ -18,7 +18,7 @@ const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
-    formats: ["webp", "jpeg"],
+    formats: ["webp", "jpeg", "png"],
     outputDir: "./dist/img/optimized",
     urlPath: "/img/optimized",
   };
@@ -360,16 +360,29 @@ module.exports = function (eleventyConfig) {
           continue;
         }
 
+        const capitalize = (str) => {
+          `str.charAt(0).toUpperCase()}${
+            str.substring(1)
+                  .toLowerCase()
+          }`
+        }
+
+        const generateTitleText = (title, callout) => {
+          if(callout.toLowerCase() === "humble") {
+            return ""
+          }
+
+          return title.replace(/(<\/{0,1}\w+>)/, "")
+            ? title
+              : capitalize(callout)
+        }
+
         content = content.replace(
           calloutMeta,
           function (metaInfoMatch, callout, metaData, collapse, title) {
             isCollapsable = Boolean(collapse);
             isCollapsed = collapse === "-";
-            const titleText = title.replace(/(<\/{0,1}\w+>)/, "")
-              ? title
-              : `${callout.charAt(0).toUpperCase()}${callout
-                .substring(1)
-                .toLowerCase()}`;
+            const titleText = generateTitleText(title, callout)
             const fold = isCollapsable
               ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
               : ``;
