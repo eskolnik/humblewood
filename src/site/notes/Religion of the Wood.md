@@ -30,4 +30,26 @@ To Humblefolk who live outside of birdfolk perches, Ardea and Tyton are known as
 | Kren, the Sly          | A shadowy fox                                             | Guile, Darkness, Predators, Trickery, Hunger, Dangerous Nature, Cunning, and Vulpins |
 | Tyton, the Nightfather | An immense black barn owl                                 | Night, Time, Aging, Memory, and Natural Death                                        |
 |                        |                                                           |                                                                                      |
-###### [Tales of the Amarynthine](https://drive.proton.me/urls/WPG20Y2CV4#lTw9covPdsYL)
+###### [Tales of the Amarynthine PDF](https://drive.proton.me/urls/WPG20Y2CV4#lTw9covPdsYL)
+
+
+![Humblewood_religion-1.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-1.webp)
+![Humblewood_religion-2.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-2.webp)
+![Humblewood_religion-3.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-3.webp)
+![Humblewood_religion-4.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-4.webp)
+![Humblewood_religion-5.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-5.webp)
+![Humblewood_religion-6.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-6.webp)
+![Humblewood_religion-7.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-7.webp)
+![Humblewood_religion-8.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-8.webp)
+![Humblewood_religion-9.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-9.webp)
+![Humblewood_religion-10.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-10.webp)
+![Humblewood_religion-11.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-11.webp)
+![Humblewood_religion-12.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-12.webp)
+![Humblewood_religion-13.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-13.webp)
+![Humblewood_religion-14.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-14.webp)
+![Humblewood_religion-15.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-15.webp)
+![Humblewood_religion-16.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-16.webp)
+![Humblewood_religion-17.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-17.webp)
+![Humblewood_religion-18.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-18.webp)
+![Humblewood_religion-19.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-19.webp)
+![Humblewood_religion-20.webp](/img/user/assets/Books/HW_Religion/Humblewood_religion-20.webp)
