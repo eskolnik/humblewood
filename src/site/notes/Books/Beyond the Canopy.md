@@ -3,9 +3,10 @@
 ---
 
 # Beyond the Canopy
+###### [PDF Download](https://drive.proton.me/urls/GZV33QJG0G#wrk2IBkP8cTc)
 
 ![wesfolk_1.png](/img/user/assets/wesfolk_1.png)
-!
+![wesfolk_2.png](/img/user/assets/wesfolk_2.png)
 
 ### Table of Contents
 
