@@ -5,20 +5,20 @@
 # Humblewood PC options
 
 ### Table of Contents
-- [[#Species|Species]]
-	- [[#Species#Corvum|Corvum]]
-	- [[#Species#Gallus|Gallus]]
-	- [[#Species#Luma|Luma]]
-	- [[#Species#Raptor|Raptor]]
-	- [[#Species#Strig|Strig]]
-	- [[#Species#Cervan|Cervan]]
-	- [[#Species#Hedge|Hedge]]
-	- [[#Species#Jerbeen|Jerbeen]]
-	- [[#Species#Mapach|Mapach]]
-	- [[#Species#Vulpin|Vulpin]]
-- [[#Subclasses|Subclasses]]
-- [[#Backgrounds|Backgrounds]]
-- [[#Feats|Feats]]
+- [[Books/Humblewood PC Options#Species\|Species]]
+	- [[Books/Humblewood PC Options#Corvum\|Corvum]]
+	- [[Books/Humblewood PC Options#Gallus\|Gallus]]
+	- [[Books/Humblewood PC Options#Luma\|Luma]]
+	- [[Books/Humblewood PC Options#Raptor\|Raptor]]
+	- [[Books/Humblewood PC Options#Strig\|Strig]]
+	- [[Books/Humblewood PC Options#Cervan\|Cervan]]
+	- [[Books/Humblewood PC Options#Hedge\|Hedge]]
+	- [[Books/Humblewood PC Options#Jerbeen\|Jerbeen]]
+	- [[Books/Humblewood PC Options#Mapach\|Mapach]]
+	- [[Books/Humblewood PC Options#Vulpin\|Vulpin]]
+- [[Books/Humblewood PC Options#Subclasses\|Subclasses]]
+- [[Books/Humblewood PC Options#Backgrounds\|Backgrounds]]
+- [[Books/Humblewood PC Options#Feats\|Feats]]
 
 ![Humblewood_2024_supplement-1.webp](/img/user/assets/Books/HW_PC_options/Humblewood_2024_supplement-1.webp)
 ![Humblewood_2024_supplement-2.webp](/img/user/assets/Books/HW_PC_options/Humblewood_2024_supplement-2.webp)
