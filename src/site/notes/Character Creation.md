@@ -71,7 +71,7 @@ In addition to the backgrounds in the HW books, here are a few ideas based on th
 
 ##### Folk Heroes, Guild Artisans, and Merchants
 
-- Farming in Humblewood may be done on land or in the branches of perches. Farming in the canopy consists of growing moss gardens, fruit-bearing vines, raising large insects for food, or tending silkworms for clothing.
+- Farming in Humblewood may be done on land or in the branches of perches. Farming in the canopy consists of growing moss gardens, fruit-bearing vines, raising large insects for food, or tending silkworms for clothing.
 - The Gallus folk value honest work, such as farming and smithing
 - Mapach craftspeople who constantly look for ways to improve upon past creations find themselves branded as eccentrics. Their methods are unconventional, but eminently practical.
 - Raptors are adept at living off the land. They are skilled hunters, usually leading the harvesting of meat and skins for their perches
