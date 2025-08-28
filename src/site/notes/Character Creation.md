@@ -50,7 +50,8 @@ We'll be using the 2024 version of the 5e [rules](https://www.dndbeyond.com/sour
 ###### [[Books/Humblewood Spells\|Spells]]
 
 ###### [[Books/Beyond the Canopy\|Beyond the Canopy (HumbleWood 2)]] 
-- Note: HW2 content hasn't been updated for the 2024 rules yet, but those options are all still available.
+
+###### [[Books/The Tenders\|The Tenders]]
 
 
 ## BackStory
