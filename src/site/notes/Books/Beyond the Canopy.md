@@ -4,6 +4,9 @@
 
 # Beyond the Canopy
 
+![wesfolk_1.png](/img/user/assets/wesfolk_1.png)
+![wesfolk_2.png](/img/user/assets/wesfolk_2.png)
+
 ### Table of Contents
 
 - [[Books/Beyond the Canopy#Species\|Species]]
