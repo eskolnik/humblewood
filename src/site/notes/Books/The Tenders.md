@@ -4,6 +4,7 @@
 
 # The Tenders
 
+###### [PDF DOwnload](https://drive.proton.me/urls/3CR3S511D4#uPJvrqgk0AJL)
 > [!humble] 
 >  
 >   #_humble_callout  |       |
