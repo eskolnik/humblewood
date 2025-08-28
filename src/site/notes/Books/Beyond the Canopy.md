@@ -5,20 +5,21 @@
 # Beyond the Canopy
 
 ### Table of Contents
-- [[#Species|Species]]
-	- [[#Species#Capran|Capran]]
-	- [[#Species#Eluran|Eluran]]
-	- [[#Species#Arma Hedge|Arma Hedge]]
-	- [[#Species#Rockburrow Jerbeen|Rockburrow Jerbeen]]
-	- [[#Species#Mustel|Mustel]]
-	- [[#Species#Seeta|Seeta]]
-	- [[#Species#Sylph|Sylph]]
-	- [[#Species#Tilia|Tilia]]
-- [[#Subclasses|Subclasses]]
-- [[#Gadgeteer (New Class)|Gadgeteer (New Class)]]
-- [[#Backgrounds|Backgrounds]]
-- [[#Feats|Feats]]
-- [[#Feats#Spells|Spells]]
+
+- [[Books/Beyond the Canopy#Species\|Species]]
+	- [[Books/Beyond the Canopy#Capran\|Capran]]
+	- [[Books/Beyond the Canopy#Eluran\|Eluran]]
+	- [[Books/Beyond the Canopy#Arma Hedge\|Arma Hedge]]
+	- [[Books/Beyond the Canopy#Rockburrow Jerbeen\|Rockburrow Jerbeen]]
+	- [[Books/Beyond the Canopy#Mustel\|Mustel]]
+	- [[Books/Beyond the Canopy#Seeta\|Seeta]]
+	- [[Books/Beyond the Canopy#Sylph\|Sylph]]
+	- [[Books/Beyond the Canopy#Tilia\|Tilia]]
+- [[Books/Beyond the Canopy#Subclasses\|Subclasses]]
+- [[Books/Beyond the Canopy#Gadgeteer (New Class)\|Gadgeteer (New Class)]]
+- [[Books/Beyond the Canopy#Backgrounds\|Backgrounds]]
+- [[Books/Beyond the Canopy#Feats\|Feats]]
+- [[Books/Beyond the Canopy#Spells\|Spells]]
 
 > [!humble] 
 >  
