@@ -14,7 +14,7 @@ In some editions of D&D, rolling a natural 20 or a natural 1 meant automatic suc
 
 ## Luck
 
-Replaces the [Heroic Inspiration]([Rules Glossary](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#HeroicInspiration)) rules.
+Replaces the [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#HeroicInspiration) rules.
 
 ### Acquisition
 
